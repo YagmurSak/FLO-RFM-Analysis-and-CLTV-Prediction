@@ -2,9 +2,6 @@ import pandas as pd
 import numpy as np
 import datetime as dt
 import matplotlib.pyplot
-
-from kural_Tabanlı_proje_odev import new_user
-
 matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 from lifetimes import BetaGeoFitter
