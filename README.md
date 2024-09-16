@@ -34,6 +34,4 @@ customer_value_total_ever_offline: The total amount paid by the customer for off
 
 customer_value_total_ever_online: The total amount paid by the customer for online shopping
 
-customer_value_total_ever_online: The total amount paid by the customer for online shopping
-
 interested_in_categories_12: The customer's last List of categories shopped in the last 12 months
